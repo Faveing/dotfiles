@@ -1,0 +1,21 @@
+[YOURTUBE]
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distro Tube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA "~Lunduke"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCv1Kcz-CuGM6mxzL3B1_Eiw "~The linux gamer"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWJUSpXVHTaHErtGWC5qPlQ "~Destination linux"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith"
+https://www.youtube.com/feeds/videos.xml?user=Zisteau "~Zisteau"
+https://www.youtube.com/feeds/videos.xml?user=EthosLab "~Ethos Lab"
+https://www.youtube.com/feeds/videos.xml?user=colonelfailure "~ColonelFailure"
+https://www.youtube.com/feeds/videos.xml?user=hexdsl "~Hexdsl"
+[NEWS]
+http://lxer.com/module/newswire/headlines.rss
+https://www.zdnet.com/news/rss.xml "~ZDNET News"
+https://www.zdnet.com/topic/linux/rss.xml "~ZDNET News Linux"
+https://itsfoss.com/feed/ "~It's FOSS"
+[Tumblr]
+https://fouroclocks-art.tumblr.com/rss
+[Redit]
+https://www.reddit.com/r/selfhosted.rss "~/r/selfhosted"
+[PEOPLE]
+https://pfrazee.hashbase.io/feed.xml
